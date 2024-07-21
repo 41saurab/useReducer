@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.counter {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.button-increment {
+  background-color: green;
+}
+
+.button-decrement {
+  background-color: red;
+}
